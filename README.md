@@ -93,6 +93,6 @@ Poetry simplifies the process of managing Python dependencies by using a single 
 Gradio allows you to create a web-based user interface for your machine learning applicationwith minimal effort. It makes it easy to test and interact with PrivateGPT.
 
 
-#🖥️ Usage 
+# 🖥️ Usage 
 Once the server is up and running, open your browser and go to: http://localhost:8001
 
