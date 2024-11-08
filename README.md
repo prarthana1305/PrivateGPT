@@ -17,7 +17,7 @@ At its core, the application uses **Ollama Mistral 7b** as the Large Language Mo
 Make sure you have **Python 3.8+**, **Poetry**, and **Ollama** installed on your system.
 
 #### Step 1: Clone the Repository
-git clone https://github.com/yourusername/private-gpt.git
+git clone https://github.com/zylon-ai/private-gpt.git
 cd private-gpt
 
 
