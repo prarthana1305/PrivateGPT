@@ -69,7 +69,7 @@ poetry install --extras "ui"
 
 
 
-#### 🛠️ Main Concepts
+# 🛠️ Main Concepts
 #### 1. Ollama Mistral 7b (LLM)
 The Ollama Mistral 7b model is a powerful LLM designed for natural language processing tasks.
 It's optimized for understanding user queries and providing meaningful responses even in offline mode.
