@@ -67,7 +67,7 @@ poetry install --extras "llms-huggingface embeddings-huggingface"
 3. With Gradio UI:
 poetry install --extras "ui"
 
-![Application Demo](./images)
+#### ![Application Demo](./images)
 
 # 🛠️ Main Concepts
 #### 1. Ollama Mistral 7b (LLM)
