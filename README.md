@@ -68,7 +68,6 @@ poetry install --extras "llms-huggingface embeddings-huggingface"
 poetry install --extras "ui"
 
 
-![Application Demo](C:\Users\Prarthana\Downloads)
 
 # 🛠️ Main Concepts
 #### 1. Ollama Mistral 7b (LLM)
